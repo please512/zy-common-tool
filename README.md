@@ -5,7 +5,7 @@
 npm install -g zy-common-tool
 
 #github
-git@github.com:please512/npm.git
+git@github.com:please512/npm_made.git
 
 #usage
 let formatter = require('./index')
